@@ -3,7 +3,7 @@
     <a href="https://instagram.com" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://@KhNurdavlat" target="_blank">
+    <a href="https://t.me/@KhNurdavlat" target="_blank">
         <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
     </a>
 </p>
