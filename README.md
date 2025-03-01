@@ -27,3 +27,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdavlat&layout=compact&langs_count=6&theme=dark)
 
 
+curl -H "Accept: application/vnd.github.v3+json" https://api.github.com/users/Nurdavlat/repos
