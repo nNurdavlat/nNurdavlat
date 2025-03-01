@@ -24,4 +24,5 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+## 🏆 GitHub Trophies  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nurdavlat&theme=darkhub&no-bg=true&no-frame=true)
