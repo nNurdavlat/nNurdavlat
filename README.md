@@ -24,3 +24,6 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdavlat&layout=compact&langs_count=6&theme=dark)
+
+
