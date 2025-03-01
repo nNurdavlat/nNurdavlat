@@ -23,8 +23,3 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurdavlat&layout=compact&langs_count=6&theme=dark)
-
-
-curl -H "Accept: application/vnd.github.v3+json" https://api.github.com/users/Nurdavlat/repos
