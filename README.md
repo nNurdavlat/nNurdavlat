@@ -23,7 +23,6 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
-<h1>Hello</h1>
 
 ## 🏆 GitHub Trophies  
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Nurdavlat&theme=darkhub&no-bg=true&no-frame=true)
