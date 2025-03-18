@@ -25,12 +25,6 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nNurdavlat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nNurdavlat&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nNurdavlat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nNurdavlat&theme=tokyonight&hide_border=true&icon_color=79ff97)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nNurdavlat&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nNurdavlat&theme=tokyonight&hide_border=true&layout=compact)
@@ -40,8 +34,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=nNurdavlat&theme=tokyonight&hide_border=true&icon_color=ff9800&title_color=ff5733&text_color=00e676)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nNurdavlat&theme=tokyonight&hide_border=true&fire=ff1744&ring=ff9100&currStreakLabel=00e5ff)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nNurdavlat&theme=tokyonight&hide_border=true&layout=compact&title_color=ffeb3b&text_color=ffffff)
-
-
 
 
 ## 🏆 GitHub Trophies
