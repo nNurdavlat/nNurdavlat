@@ -30,11 +30,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nNurdavlat&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nNurdavlat&theme=tokyonight&hide_border=true&layout=compact)
 
-## 🏆 Achievements
-![Pull Shark](https://github-profile-achievements.vercel.app/api/badge/pull-shark)
-![Repo Maintainer](https://github-profile-achievements.vercel.app/api/badge/repo-maintainer)
-![Galaxy Brain](https://github-profile-achievements.vercel.app/api/badge/galaxy-brain)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=nNurdavlat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
